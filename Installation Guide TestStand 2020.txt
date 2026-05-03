@@ -1,0 +1,27 @@
+Installation Guide TestStand 2020
+Download the ISO file from the official link: https://download.ni.com/support/nipkg/products/ni-t/ni-teststand-2020/20.0/offline/ni-teststand-2020_20.0.0_offline.iso
+Download NI License Activator 1.2.exe from the corresponding repository
+Mount or open the downloaded ISO file
+Run the installer inside the ISO as administrator
+Follow the installation wizard
+When the activation window appears, select "Later" or close it
+At the end of the installation, the system will ask to restart
+Restart the computer to complete the process
+After reboot, open NI License Activator 1.2.exe as administrator
+Right-click on TestStand and select Activate
+Close the activator
+If all steps were followed correctly, TestStand 2020 will be installed, the license will be activated, and the system will be ready to use
+
+Guía de instalación TestStand 2020
+Descarga el archivo ISO desde el enlace oficial: https://download.ni.com/support/nipkg/products/ni-t/ni-teststand-2020/20.0/offline/ni-teststand-2020_20.0.0_offline.iso
+Descarga NI License Activator 1.2.exe desde el repositorio correspondiente
+Monta o abre el archivo ISO descargado
+Ejecuta el instalador dentro del ISO como administrador
+Sigue el asistente de instalación
+Cuando aparezca la ventana de activación, selecciona “Después” o ciérrala
+Al finalizar la instalación, el sistema pedirá reiniciar
+Reinicia el equipo para completar el proceso
+Después del reinicio, abre NI License Activator 1.2.exe como administrador
+Haz clic derecho sobre TestStand y selecciona Activar
+Cierra el activador
+Si seguiste los pasos correctamente, TestStand 2020 quedará instalado, la licencia estará activada y el sistema listo para usar
